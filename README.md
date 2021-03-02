@@ -1,6 +1,2 @@
-# WannaCrySample
-Sample of the wanna cry ransomware. Later I might add some other stuff ;)
-
-For people who don't understand what this file is don't download it, it will infect your machine and encrypt your files and ask for a ransom.
-
-Please note that the exe file is now moved to the release section because of a warning from github, The password for the zip file is "okgithub"
+# WannaCry
+A sample variant of the May 2017 WannaCry Ransomware attack file. If you do not know what is WannaCry, I recommend not to download it. Read https://en.wikipedia.org/wiki/WannaCry_ransomware_attack for more information.
